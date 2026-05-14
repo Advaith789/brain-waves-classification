@@ -1,3 +1,7 @@
 .DS_store
 hms_reference
 hms_data
+.venv
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
